@@ -46375,7 +46375,7 @@ a8(){return new A.a52(new A.fS(B.cE,$.ag()))}}
 A.a52.prototype={
 af(){var s,r,q,p=this,o=null
 p.aP()
-p.d=A.b([A.dY(!1,!0,!1,!0,!0,!0,!0,!1,!0,!0,"vendername",o,!1,!1,o,B.C,"Vender Name",B.C,new A.fx(""),200),A.dY(!1,!0,!1,!0,!0,!0,!0,!1,!0,!0,"phonenumber",o,!1,!1,o,B.C,"Phone Number",B.C,new A.fx(""),200),A.dY(!1,!0,!1,!0,!1,!1,!0,!1,!0,!0,"actions",o,!1,!1,new A.aFC(p),B.C,"Actions",B.C,new A.fx(""),200)],t.l)
+p.d=A.b([A.dY(!1,!0,!1,!0,!1,!0,!0,!1,!0,!0,"vendername",o,!1,!1,o,B.C,"Vender Name",B.C,new A.fx(""),200),A.dY(!1,!0,!1,!0,!1,!0,!0,!1,!0,!0,"phonenumber",o,!1,!1,o,B.C,"Phone Number",B.C,new A.fx(""),200),A.dY(!1,!0,!1,!0,!1,!1,!0,!1,!0,!0,"actions",o,!1,!1,new A.aFC(p),B.C,"Actions",B.C,new A.fx(""),200)],t.l)
 s=t.N
 r=t.h6
 q=A.oX(A.aq(["vendername",new A.bp(new A.bI(),"Hardware pvt Ltd"),"phonenumber",new A.bp(new A.bI(),"98657347372"),"actions",new A.bp(new A.bI(),"")],s,r),!1)
@@ -46457,7 +46457,7 @@ I(a){var s=null
 return A.aOu(!1,new A.ow(s),A.py(s,A.aMW(B.ae,s,s,B.PA),s,s),"Asset Ease")}}
 A.RR.prototype={
 I(a){var s=null
-return A.aOu(!1,A.ki(s,s,new A.aT(new A.am(8,8,8,8),A.dd(A.ay("\u26a0\ufe0f This app supports only Windows desktop.\nPlease open it on a desktop or laptop.",s,s,s,s,A.an(s,s,B.k,s,s,s,s,s,"Poppins",s,s,18,s,s,B.y,s,s,!0,s,s,s,s,s,s,s,s),B.br,s,s),s,s),s)),s,"")}}
+return A.aOu(!1,A.ki(s,s,new A.aT(new A.am(8,8,8,8),A.dd(A.ay("\u26a0\ufe0f This app supports only Windows desktop.",s,s,s,s,A.an(s,s,B.k,s,s,s,s,s,"Poppins",s,s,18,s,s,B.y,s,s,!0,s,s,s,s,s,s,s,s),B.br,s,s),s,s),s)),s,"")}}
 A.fg.prototype={
 gai(a){return new A.xU(this.a,0,0)},
 ga0(a){var s=this.a,r=s.length
